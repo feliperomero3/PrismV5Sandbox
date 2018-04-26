@@ -1,6 +1,6 @@
 # PrismV5 Sandbox
 
-Uso básico de la librearía Prism desarrollada por Microsoft Patterns & Practices.
+Uso básico de la librería Prism desarrollada por Microsoft Patterns & Practices.
 
 ## Instrucciones
 
@@ -10,6 +10,6 @@ Uso básico de la librearía Prism desarrollada por Microsoft Patterns & Practices
 
 ## Proyectos dentro de la solución
 
-### PrismHelloWorld
+### PrismHelloWorld (WPF)
 
 Aplicación tipo "Hello World". Mostrar un solo bloque de texto.
